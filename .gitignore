@@ -1,4 +1,9 @@
+# Local data files
+credit_data(1).csv
+credit_data.csv
+credit_data(1).zip
 
+# Python and notebook cache
 __pycache__/
 .ipynb_checkpoints/
 .venv/
