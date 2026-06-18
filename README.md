@@ -1,15 +1,27 @@
-# Credit Default Prediction
+# 信贷违约预测模型
 
-This repository is for a credit default prediction internship project.
+本仓库用于保存百度数据分析线上实习项目的代码和报告。
 
-## Data
+项目目标是基于借款人的贷款信息、信用信息和历史行为特征，预测用户是否可能发生违约，为信贷风控分析提供支持。
 
-The full dataset is not included in this repository because the file is too large for normal GitHub version control.
+## 数据说明
 
-Local data file:
+完整数据文件不上传到 GitHub，因为文件体积较大，不适合直接纳入普通 Git 版本管理。
+
+本地数据文件：
 
 ```text
 credit_data.csv
 ```
 
-The dataset should be kept locally and ignored by Git.
+该文件已通过 `.gitignore` 忽略，只保存在本地。
+
+## 当前阶段
+
+当前完成第一阶段：项目启动与初步数据探索。
+
+主要产出：
+
+- `data_preprocessing.ipynb`：第一阶段数据读取与基础检查代码
+- `第一阶段实验报告.docx`：第一阶段实验报告
+- `第一阶段实验报告.pdf`：第一阶段实验报告 PDF 版本
