@@ -9,3 +9,7 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# Word temporary files
+~$*.docx
+~WRL*.tmp
