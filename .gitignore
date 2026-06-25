@@ -1,6 +1,7 @@
 # Local data files
 credit_data(1).csv
 credit_data.csv
+credit_data_cleaned.csv
 credit_data(1).zip
 
 # Python and notebook cache
